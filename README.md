@@ -1,17 +1,29 @@
-# -QR-Code-Generator
-Project: QR Code Generator
+# QR Code Generator
 
-Description:
-A web application that allows users to generate QR codes for URLs, text, or any data. The application provides options to customize the QR code size, color, and error correction level. Users can download the generated QR code as an image.
-Features:
+This is a simple web application to generate QR codes for URLs, text, or any data. Customize the size, color, and background color of the QR code and download it as a PNG image.
 
-## Generate QR codes for URLs, text, or any data
-## Customize QR code size, color, and error correction level
-## Preview the QR code before downloading
-## Download QR code as PNG image
+## Features
 
-Tech Stack:
+- Generate QR codes for URLs, text, or any data
+- Customize QR code size, color, and background color
+- Preview the QR code before downloading
+- Download QR code as PNG image
 
-- Frontend: HTML, CSS, JavaScript
-- Libraries: QRious for generating QR codes
-- Deployment: GitHub Pages for easy hosting
+## Usage
+
+1. Enter the text or URL you want to convert into a QR code.
+2. Customize the size, color, and background color.
+3. Click "Generate QR Code" to see the preview.
+4. Click "Download QR Code" to download the QR code as a PNG image.
+
+## Installation
+
+No installation is required. Simply open the `index.html` file in your browser to use the application.
+
+## Contributing
+
+Feel free to fork this repository and make your own improvements. Pull requests are welcome!
+
+## License
+
+This project is licensed under the MIT License.
